@@ -1,0 +1,10 @@
+{
+  "scripts": {
+    "start": "gitbook serve",
+    "site": "git pull && gitbook build"
+  },
+  "dependencies": {
+    "gitbook": "^2.6.9",
+    "global": "^4.4.0"
+  }
+}
